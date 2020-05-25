@@ -1,4 +1,4 @@
-![PrintScreen]('src\screenshots\taskman.png')
+![printScreen](https://github.com/lucasdpassos/task-manager/blob/master/src/screenshots/taskman.png?raw=true)
 
 
 
