@@ -1,10 +1,4 @@
-![PrintScreen](src\screenshots\taskman.png)
-
-
-
-
-
-
+![PrintScreen]('src\screenshots\taskman.png')
 
 
 
